@@ -1,5 +1,6 @@
 # 💫 About Me:
-i'm a junior computer science student at sejong university 
+Hi guys , my name is Angelo and i'm a junior CS student at Sejong University !
+I've been developing some personal projects such as Angelomotive,PathWise,and JagaUang which all of them are integrated with AI, so please check it out !
 
 
 ## 🌐 Socials:
