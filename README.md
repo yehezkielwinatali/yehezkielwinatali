@@ -2,6 +2,8 @@
 Hi guys, my name is Angelo and I'm currently a junior CS student at Sejong University in Seoul, South Korea.
 I've been developing some interesting projects that leverage Gemini AI and integrate it to my projects so please check it out and I hope you like it ! :)
 
+Personal Portofolio Website : https://yehezkielangeloportofolio.vercel.app/
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yhzkielangelo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yehezkielangelo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yehezkielangg@gmail.com) 
