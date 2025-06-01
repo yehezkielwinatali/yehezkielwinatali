@@ -1,5 +1,6 @@
 # 💫 About Me:
-i'm a junior computer science student at sejong university 
+Hi guys, my name is Angelo and I'm currently a junior CS student at Sejong University in Seoul, South Korea.
+I've been developing some interesting projects that leverage Gemini AI and integrate it to my projects so please check it out and I hope you like it ! :)
 
 
 ## 🌐 Socials:
